@@ -1,7 +1,7 @@
 Heart Rate Estimation via Facial Video Signals
 This project implements a real-time, contactless heart rate estimation system using webcam video and deep learning. It leverages facial color variations caused by blood flow to predict heart rate (bpm) without any wearable sensors.
 
-The full pipeline includes:
+The full pipeline includes:\n
 Facial landmark detection using MediaPipe
 RGB + HSV signal extraction from forehead and cheeks
 Signal preprocessing: detrending, filtering, and normalization
